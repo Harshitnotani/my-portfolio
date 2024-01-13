@@ -129,7 +129,9 @@ ul.navlist{
 .menu-icon.active .bar{
     opacity: 0;
 }
-
+img{
+    top:67px;
+}
 
 /* ==================== home section css code ============================ */
 section{
